@@ -95,6 +95,7 @@ A full example could be:
       {
           preferFrontCamera : true, // iOS and Android
           showFlipCameraButton : true, // iOS and Android
+          showBackButon: true, // Android
           showTorchButton : true, // iOS and Android
           torchOn: true, // Android, launch with the torch switched on (if available)
           saveHistory: true, // Android, save scan history (default false)
